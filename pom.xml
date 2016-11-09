@@ -9,6 +9,7 @@
     <url>http://maven.apache.org</url>
     <dependencies>
 	<!-- Primer camvi -->
+	<!-- Segon camvi -->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
