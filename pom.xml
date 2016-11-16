@@ -8,6 +8,7 @@
     <name>hello-servlet Maven Webapp</name>
     <url>http://maven.apache.org</url>
     <dependencies>
+<!--segon comentari-->
 	
         <dependency>
             <groupId>junit</groupId>
